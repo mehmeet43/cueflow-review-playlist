@@ -1,8 +1,6 @@
-
 #EXTM3U
+#EXTINF:-1 group-title="Test Streams",Apple HLS Reference Stream
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
 
-#EXTINF:-1 group-title="CueFlow Tests",Apple HLS Test
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_fmp4/master.m3u8
-
-#EXTINF:-1 group-title="CueFlow Tests",Big Buck Bunny
+#EXTINF:-1 group-title="Open Movies",Big Buck Bunny
 https://video-dev.github.io/streams/x36xhzz/x36xhzz.m3u8
